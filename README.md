@@ -27,7 +27,7 @@ The Game Stoper extension should now appear in your list of extensions.
 
 ###screenshot
 
-"C:\Users\achal\OneDrive\Desktop\placement\projects\chrome extension development project\gamePlay_Stopper\images\logo1.mp4"
+
 
 
 ###Usage
