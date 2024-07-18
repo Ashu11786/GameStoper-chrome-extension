@@ -3,7 +3,6 @@ Chrome extension which stops the running game after some interval of time to pre
 GameStoper is a Chrome extension designed to help users manage their time by limiting access to distracting websites, particularly gaming sites. This README file provides instructions on how to set up, run, and customize the extension.
 
 ##Installation
-
 ###Prerequisites
 
 Google Chrome browser
@@ -28,6 +27,7 @@ The Game Stoper extension should now appear in your list of extensions.
 
 ###screenshot
 
+"C:\Users\achal\OneDrive\Desktop\placement\projects\chrome extension development project\gamePlay_Stopper\images\logo1.mp4"
 
 
 ###Usage
